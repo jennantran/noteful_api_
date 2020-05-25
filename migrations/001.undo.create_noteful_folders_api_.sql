@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS noteful_folders_api_;
